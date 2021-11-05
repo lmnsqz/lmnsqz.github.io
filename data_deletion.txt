@@ -1,0 +1,1 @@
+We only store your facebook app specific id in the app. If you want to delete it for any reason please contact us with support e-mail.
